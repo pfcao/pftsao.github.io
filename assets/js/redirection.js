@@ -129,23 +129,16 @@ f0704gift29 : 070429,
 f070426 : 070426,
 f0703firstpost05 : 070305};
 
-dict.f0712test = 1234;
-
-//alert(dict["f0703firstpost05"]);
-
 var p = document.location.pathname.toLowerCase();
-p=p.split(/\.org-20/g)[1].split(/\.html/g)[0];
+if (p.indexOf("#rdted")<0) {
+
+p=p.split(/\.org\/20/g)[1].split(/\.html/g)[0];
 p=p.replace(/[-_]/g,"");
 p="f"+p.replace(/blogpost/g,"");
 
 if( p in dict ){
-	p="/post/20"+dict[p]+"/";
-    window.location = p;
+p="/post/20"+dict[p]+"/"+"#rdted";
+window.location = p;
 }
 
-
-
-
-//p=p.replace(/./g,"");
-//alert(p);
-//p=p.replace(/)
+}
