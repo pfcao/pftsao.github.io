@@ -132,7 +132,7 @@ f0703firstpost05 : 070305};
 var p = document.location.pathname.toLowerCase();
 if (p.indexOf("#rdted")<0) {
 
-p=p.split(/\.org\/20/g)[1].split(/\.html/g)[0];
+p=p.replace(/^.?20/,"").split(/\.html/g)[0];
 p=p.replace(/[-_\/]/g,"");
 p="f"+p.replace(/blogpost/g,"");
 
