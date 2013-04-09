@@ -116,7 +116,7 @@ f07113995 : 071111,
 f07113169 : 071109,
 f0711baptism25 : 071125,
 f071012 : 071012,
-f070928 : 070928,
+//f070928 : 070928,
 f070813 : 070813,
 f07075561 : 070723,
 f070721 : 070721,
@@ -133,7 +133,7 @@ var p = document.location.pathname.toLowerCase();
 if (p.indexOf("#rdted")<0) {
 
 p=p.split(/\.org\/20/g)[1].split(/\.html/g)[0];
-p=p.replace(/[-_]/g,"");
+p=p.replace(/[-_\/]/g,"");
 p="f"+p.replace(/blogpost/g,"");
 
 if( p in dict ){
