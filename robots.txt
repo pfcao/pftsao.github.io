@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /post/
+Disallow: /forum/
+Disallow: /wp-*
+Disallow: /20*
+
+
+User-agent: Baiduspider
+Allow: /post/
+Disallow: /forum/
+Disallow: /wp-*
+Disallow: /20*
+
+Sitemap:
+/assets/sitemap.xml
