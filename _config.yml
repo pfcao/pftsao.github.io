@@ -1,8 +1,9 @@
 markdown: rdiscount
-permalink: /:year:month:day/
+permalink: /post/:year:month:day/
 exclude: ["README.md", "Rakefile"]
 auto: true
 pygments: false
+future: false
 
 title : 塞牧
 tagline: "@听稻"

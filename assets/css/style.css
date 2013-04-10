@@ -62,13 +62,13 @@ font-family: Lucida Sans Unicode, Lucida Grande, Tohoma, \5E7C\5706, Microsoft Y
   font-size: 4.2em;  
 }
 #header h1 a:visited, #header h1 a, #header h1 a:hover {
-  color: #fa8072;
+  color: gold; /*#fa8072;*/
 }
 
 #header h1::after{
 content: "@听稻";
 height: 10px;
-color: green;
+color: #fa8072;
 font-size: .618em;
 }
 #header h1 a:hover{
@@ -112,13 +112,13 @@ article h4 {
 }
 
 .text p {
-margin-top: 1.6em;
+margin-bottom: 1.6em;
 }
 .text a:hover 
 text-decoration: underline;
 }
 
-blockquote, pre,q {
+blockquote, pre,q,code {
 color: #678CB1;
 }
 em, strong {
@@ -131,7 +131,7 @@ color: #FF8BFF;
 font-weight: bold;
 }*/
 nav a, nav a:visited, nav a:hover {
-color: #FFCD22;
+color: orange;/*#FFCD22;*/
 }
 article footer nav {
 font-size: 1em;
@@ -157,7 +157,7 @@ padding-top: 3em;
 padding-bottom: 1em;
 }
 
-.text ul, .text ol, pre, blockquote {
+.text ul, .text ol, pre, blockquote,code {
 padding-left: 2em;
 }
 
