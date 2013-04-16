@@ -114,15 +114,20 @@ article h4 {
 .text p {
 margin-bottom: 1.6em;
 }
-.text a:hover 
+.text a:hover{ 
 text-decoration: underline;
 }
 
-blockquote, pre,q,code {
+q,code,em, strong {
 color: #678CB1;
 }
-em, strong {
-color: #678CB1 ;
+
+pre, blockquote{
+padding-left: 2em;
+padding-right: 2em;
+font-size: 1em;
+border-left: 7px solid #678CB1;
+border-right: 7px solid #678CB1;
 }
 
 /*
@@ -157,7 +162,7 @@ padding-top: 3em;
 padding-bottom: 1em;
 }
 
-.text ul, .text ol, pre, blockquote,code {
+.text ul, .text ol{
 padding-left: 2em;
 }
 
