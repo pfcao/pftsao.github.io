@@ -4,4 +4,4 @@ Disallow: /forum/
 Disallow: /wp-*
 Disallow: /20*
 
-Sitemap: http://samuel.tingdao.org/assets/sitemap.xml
+Sitemap: http://samuel.tingdao.org/sitemap.xml

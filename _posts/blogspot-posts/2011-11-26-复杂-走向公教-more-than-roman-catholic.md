@@ -1,5 +1,5 @@
 ---
-title: 复杂.走向公教.more than Roman Catholic
+title: more than Roman Catholic - 走向公教
 layout: post
 permalink: /post/20111126/
 categories: 

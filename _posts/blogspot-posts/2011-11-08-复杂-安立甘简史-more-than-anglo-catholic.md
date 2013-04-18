@@ -1,5 +1,5 @@
 ---
-title: 复杂.安立甘简史.more than Anglo-Catholic
+title: more than Anglo-Catholic - 安立甘简史
 layout: post
 permalink: /post/20111108/
 categories:

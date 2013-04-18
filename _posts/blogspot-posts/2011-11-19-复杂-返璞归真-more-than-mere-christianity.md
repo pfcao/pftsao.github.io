@@ -1,5 +1,5 @@
 ---
-title: 复杂.返璞归真.more than Mere Christianity
+title: more than Mere Christianity - 返璞归真
 layout: post
 permalink: /post/20111119/
 categories:
@@ -13,7 +13,7 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
  
 刘易斯的作品像路标一样指向天主教神学，所以天主教一直很欢迎刘易斯，他的书在天主教书店有一席之地，天主教作家甚至为刘易斯写传记。几十年来，连续不断的，人们通过阅读刘易斯的作品而改宗到天主教，他们把刘易斯看做是使他们回归真理的引路人。但有趣的是刘易斯自己却没有公开的改宗，所以他们把刘易斯称作摩西：把大家领到了应许之地，但自己却没有进去。在天主教看来，圣公会最多只是天主教的模仿者，是赝品，所以他们骨子里看不起圣公会。但是，如此优秀、如此有宗教悟性、如此接近天主教的刘易斯为什么却最终留在了圣公会呢？这在天主教看来是很有趣的事情，难怪他们专门的研究了这个课题。
 
-更有趣的是抗罗宗居然也逐渐开始喜欢他。我们所能做的解释是：由于新教越来越背道，越来越偏离福音，所以就越来越喜欢同样不喜欢福音的刘易斯。从天主教的角度，刘易斯没有太多需要批判的——他仅仅是没有拜玛丽亚姊妹而已。从新教的角度，刘易斯的问题，很早就有人警告过了。早在1963年（正是圣公会出身的钟马田呼吁大家离开圣公会的年代），Dr. Martyn Lloyd-Jones寄给Christianity Today的信中写道：
+更有趣的是抗罗宗居然也逐渐开始喜欢他。我们所能做的解释是：由于新教越来越背道，越来越偏离福音，所以就越来越喜欢同样不喜欢福音的刘易斯。从天主教的角度，刘易斯没有太多需要批判的——他对玛丽亚有些误解瑕不掩瑜吗。从新教的角度，刘易斯的问题，很早就有人警告过了。早在1963年（正是圣公会出身的钟马田呼吁大家离开圣公会的年代），Dr. Martyn Lloyd-Jones寄给Christianity Today的信中写道：
 
 > Because C.S. Lewis was essentially a philosopher, his view of salvation was defective in two key respects: (1) Lewis believed and taught that one could reason oneself into Christianity, and (2) he was an opponent of the substitutionary and penal theory of the Atonement.
 
@@ -82,36 +82,34 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 与同时代的人一样，刘易斯是个理性主义者，理性是他的权威。他坚定的否定圣经无误，在他看来，就可信度而言，圣经与其它同类作品并没有太大的不同。他的圣经论与新正统派有些像。不同的是，刘易斯在否认圣经的权威性的同时又认为“好导师”很重要。所以，其启示论是与天主教很类似的：传统大于圣经。
 
-> all Holy Scripture is in some sense, though not all parts of it in the same sense, the word of God.   
+> all Holy Scripture is in some sense, though not all parts of it in the same sense, the word of God. 
 > [*Reflctions on the Psalms*, p19]
 > 
-> The human qualities of the raw materials show through. Naivety, error, contradiction, even (as in the cursing Psalms) wickedness are not removed. The total result is not “the Word of God” in the sense that every passage, in itself, gives impeccable science or history. It carries the Word of God; and we (under grace, with attention to tradition and to interpreters wiser than ourselves, and with the use of such intelligence and learning as we may have) receive that word from it not by using it as an encyclopedia or encyclical but by steeping ourselves in its tone or temper and so learning its overall message.   
+> The human qualities of the raw materials show through. Naivety, error, contradiction, even (as in the cursing Psalms) wickedness are not removed. The total result is not “the Word of God” in the sense that every passage, in itself, gives impeccable science or history. It carries the Word of God; and we (under grace, with attention to tradition and to interpreters wiser than ourselves, and with the use of such intelligence and learning as we may have) receive that word from it not by using it as an encyclopedia or encyclical but by steeping ourselves in its tone or temper and so learning its overall message.
 > [*Reflctions on the Psalms*, p94]
 
-所以，刘易斯的作品从来不会以圣经为其依据，因为他根本就不把圣经当作其合法依据。他对圣经简直可以用“仇恨”两个字来形容，圣经不是他的武器，而是累赘。事实上他是以进化论的哲学观来看待圣经的，甚至连基督都不是无误的。
+所以，刘易斯的作品从来不会以圣经为其依据，因为他根本就不把圣经当作其合法依据。圣经不是他的武器，而是累赘。事实上他是以进化论的哲学观来看待圣经的，甚至连基督都不是无误的。
 
-> as I believe, Christ, fulfills both Paganism and Judaism   
-> [*Reflections on the Psalms*, 129]
-> 
-> “Assuredly, I say to you, this generation will by no means pass away till all these things take place,” certainly the most embarrassing verse in the Bible. The one exhibition of error and the one confession of ignorance grow side by side. That they stood thus in the mouth of Jesus himself, and were not merely placed thus by the reporter, we surely need not doubt…. The facts, then, are these: that Jesus professed himself (in some sense) ignorant, and within a moment showed that he really was so.   
+> “Assuredly, I say to you, this generation will by no means pass away till all these things take place,” certainly the most embarrassing verse in the Bible. The one exhibition of error and the one confession of ignorance grow side by side. That they stood thus in the mouth of Jesus himself, and were not merely placed thus by the reporter, we surely need not doubt…. The facts, then, are these: that Jesus professed himself (in some sense) ignorant, and within a moment showed that he really was so. 
 > [*The World’s Last Night and Other Essays*, pp. 98-99.]
+>
 
-鄙视圣经似乎不是什么严重的神学问题吗！有些无知的人甚至以此为其优点呢。不错，骄傲——对神的骄傲从来都是人类的优点。但正如王永信在那个年代所说的，只有三种信仰，只有三种权威。离开了圣经权威，就陷入了理性与教会的权威。新教之所以为新教，第一个核心教义就是“唯独圣经”，这是新教的根本所在。信仰与理性的区别在于前者视圣经为神无误的默示、清楚的默示、自我显明的默示、完备的默示，然后把教义忠心建立在圣经的基础之上，让理性降伏于圣经之下。而基于理性的“信仰”则是把理性看为最高权威，一切都要接受理性的批判，尤其是圣经和传统。
+轻视圣经似乎不是什么严重的神学问题吗！有些无知的人甚至以此为其优点呢。不错，骄傲——对神的骄傲从来都是人类的优点。但正如王永信在那个年代所说的，只有三种信仰，只有三种权威。离开了圣经权威，就陷入了理性与教会的权威。新教之所以为新教，第一个核心教义就是“唯独圣经”，这是新教的根本所在。信仰与理性的区别在于前者视圣经为神无误的默示、清楚的默示、自我显明的默示、完备的默示，然后把教义忠心建立在圣经的基础之上，让理性降服于圣经之下。而基于理性的“信仰”则是把理性看为最高权威，一切都要接受理性的批判，尤其是圣经和传统。
 
-不相信圣经的人能有多么好的信仰呢？我们能期待其能有多么好的信仰呢？这是一个根本性的致命错误。离开圣经，必然陷入虚妄，我只能用“迷信”这个词来形容其信仰。而刘易斯的整个信仰却没有一条是建立在圣经之上的。有人以为刘易斯是一个“有神论”就以为他是朋友，就以为他是多么多么的给力，讽刺的是，绝大多数异端和异教也都是有神论，而圣经六十六卷书千百条的教义，就是没有一条来论证“有神论”。
+不相信圣经的人能有多么好的信仰呢？我们能期待其能有多么好的信仰呢？这是一个根本性的致命错误。离开圣经，必然陷入虚妄。而刘易斯的整个信仰却没有一条是建立在圣经之上的。有人以为刘易斯是一个“有神论”就以为他是朋友，就以为他是多么多么的给力，讽刺的是，绝大多数异端和异教也都是有神论，而圣经六十六卷书千百条的教义，就是没有一条来论证“有神论”。
 
 我们可以看到，一旦把“理性”这头狮子放出笼子，它就会一步步破坏信仰的根基。因为理性属于人性，而人性是堕落的，它总会尽力抬高自己——足够高过神。人文主义的悲剧就在于它是人文主义的。只要第一脚踏上这条路，就已经与信仰相背道了。何况刘易斯走的太远了。
 
-> Roughly speaking, the word Faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply Belief—accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle people—at least it used to puzzle me—is the fact that Christians regard faith in this sense as a virtue. I used to ask how on earth it can be a virtue—what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say,* a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad.*** If he were mistaken about the goodness or badness of the evidence that would not mean he was a bad man, but only that he was not very clever.** And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid.   
-> *Well, I think I still take that view…   
-> *Now just the same thing happens about Christianity. **I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of the evidence is against it**. That is not the point at which Faith comes in. But supposing a man’s reason once decides that the weight of the evidence is for it. ….   
-> Now Faith, in the sense in which I am here using the word, is the art of holding on to things your reason ’has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes…
+> Roughly speaking, the word Faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply Belief—accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle people—at least it used to puzzle me—is the fact that Christians regard faith in this sense as a virtue. I used to ask how on earth it can be a virtue—what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence *that would not mean he was a bad man, but only that he was not very clever.* And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid.  
+> Well, think I still take that view…   
+> Now just the same thing happens about Christianity. *I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of the evidence is against it*. That is not the point at which Faith comes in. But supposing a man’s reason once decides that the weight of the evidence is for it. ….   
+> Now Faith, in the sense in which I am here using the word, is the art of holding on to things your reason has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes…
 > 
 > [*Mere Christianity*]
 
 与自由派相同，在刘易斯看来，人天生具有认识真信仰的能力，一个人归信基督所需要的是证据、知识、严谨的思考，若他不相信基督，只是因为他不够聪明而已。这是自然神论的思维，与圣经教导相去岂止十万八千里了。
 
-其实，严格的讲，刘易斯的护教学并非是基于理性的，而是基于心理学的。他并非是以归纳、演绎之类的方式来思考，而是以想象、类比、说服的方式，我称之为主观理性。事实上这并非理性，而是心理性。我常说这是欺骗老太太的把戏。举个例子，按照他的思维，耶稣要么是疯子、要么是骗子、要么是神，没有其它选择。太有道理了呀！鼓掌！
+其实，严格的讲，刘易斯的护教学并非是基于理性的，而是基于心理学的。他并非是以归纳、演绎之类的方式来思考，而是以想象、类比、说服的方式，我称之为主观理性。事实上这并非理性，而是心理性——这是欺骗老太太的把戏。举个例子，按照他的思维，耶稣要么是疯子、要么是骗子、要么是神，没有其它选择。太有道理了！鼓掌！
 
 但请问，一直跟着耶稣的叛徒犹大以为耶稣是什么呢？
 
@@ -129,7 +127,7 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 有人说刘易斯所有的著作中都没有谈到过“因信称义”，甚至连巴刻也含蓄的批判过此点。
 
-> By ordinary evangelical standards, his idea about the Atonement (archetypal penitence, rather than penal substitution), and*** his failure ever to mention justification by faith when speaking of the forgiveness of sins,*** and his apparent hospitality to baptismal regeneration, and his noninerrantist view of biblical inspiration, plus his quiet affirmation of purgatory and of the possible final salvation of some who have left this world as nonbelievers, were weaknesses; they led the late, great *Martyn Lloyd-Jones, for whom evangelical orthodoxy was mandatory, to doubt whether Lewis was a Christian at all*. His closest friends were Anglo-Catholics or Roman Catholics; his parish church, where he worshiped regularly, was “high”; he went to confession;* he was, in fact, anchored in the (small-c) “catholic” stream of Anglican thought*, which some (not all) regard as central…   
+> By ordinary evangelical standards, his idea about the Atonement (archetypal penitence, rather than penal substitution), and *his failure ever to mention justification by faith when speaking of the forgiveness of sins*, and his apparent hospitality to baptismal regeneration, and his noninerrantist view of biblical inspiration, plus his quiet affirmation of purgatory and of the possible final salvation of some who have left this world as nonbelievers, were weaknesses; *they led the late, great Martyn Lloyd-Jones, for whom evangelical orthodoxy was mandatory, to doubt whether Lewis was a Christian at all*. His closest friends were Anglo-Catholics or Roman Catholics; his parish church, where he worshiped regularly, was “high”; he went to confession; he was, in fact, anchored in the (small-c) *“catholic” stream of Anglican thought*, which some (not all) regard as central…   
 > [*Still Surprised by Lewis*, J. I. Packer, 1998]
 
 事实上，这是不公道的，刘易斯的确没有提到过新教版本的“因信称义”，但是，他却提到过天主教版本的“因信称义”，虽然他并没有把这个标签贴上去。在本来应该出现因信称义的地方却出现了成圣的话题，而这两者却是风马牛不相及。刘易斯之所以不提因信称义并非失误，而是因为他根本不信这个。
@@ -139,7 +137,7 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 福音的核心是什么呢？是基督的代赎。基督代替我们这些蒙拣选的罪人承担了本应我们来承担的刑罚。既然此点如此重要，毫无疑问，刘易斯一定会否认此点了。
 
 > Now before I became a Christian I was under the impression that the first thing Christians had to believe was one particular theory as to what the point of this dying was. According to that theory God wanted to punish men for having deserted and joined the Great Rebel, but Christ volunteered to be punished instead, and so God let us off. Now I admit that even this theory does not seem to me quite so immoral and so silly as it used to; but that is not the point I want to make. What I came to see later on was that neither this theory nor any other is Christianity. The central Christian belief is that Christ’s death has somehow put us right with God and given us a fresh start. Theories as to how it did this are another matter.   
-> [*Mere Christianity*]
+> [Mere Christianity]
 
 基本上，刘易斯认为新教的替代赎罪论（penal substitutionary atonement）是愚蠢的，虽然他不敢公然的如此表达。天主教与新教的代赎理论是截然不同的，为了达到包容（回避）的目的，刘易斯抛出了其惯用的手法：这个理论根本无足轻重，你爱怎么信就怎么信，你需要知道的是“基督的死让我们与上帝和好了”，这才是基督教，那些理论不是。
 
@@ -169,7 +167,7 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 更有趣的是，天主教对救恩的解释基本上是一事实判断，而新教对救恩的解释却是价值判断（难怪刘易斯看不到其中的价值，因为他相信的是天主教的救恩观吗）。新教的替代赎罪论本身是一法律意义上的解释，赎罪本质上就是律法性的，处理的是律法与罪之间的问题。而法律本身当然是价值性的而不是事实性的。这可不是无足轻重的，而是与“因信称义”内里相通的。新教的因信称义是律法性的称义，代赎同样是律法性的代赎。刘易斯不接受赎罪论是因为他不承认人应当承担神的刑罚。
 
-我再以反例来说明刘易斯的荒谬之处。既然救恩的理论本身无所谓，那么，我完全可认为基督的死感动了父神，所以父神刚硬的心软了下来，所以就赦免了我们。我也可以认为我们被魔鬼俘虏了，魔鬼不肯放人，上帝没有办法，只好让基督以其血为赎金交换回了我们。我又可以认为基督愿意为我们去死，这表达了神的爱，这感动了我们，使我们自愿的与神和好了，这样我们得救了。我还可以认为基督以死来顺服神，为我们做了好榜样，我们依靠这个榜样的力量而顺服神，从而得救。我甚至可以认为上帝让基督来是为拯救人们，但出乎意料的是人们却把基督杀死了，于是基督没办法，只能将错就错，干脆去赎罪算了。。。显然，这些说法严重改变了福音的本质，使福音成为了祸音，使圣道成为了鬼道。请问，若对基督的死的解释根本无所谓的话，为什么这些解释却足以使我成为异端呢？
+我再以反例来说明刘易斯的荒谬之处。既然救恩的理论本身无所谓，那么，我完全可认为基督的死感动了父神，所以父神刚硬的心软了下来，所以就赦免了我们。我也可以认为我们被魔鬼俘虏了，魔鬼不肯放人，上帝没有办法，只好让基督以其血为赎金交换回了我们。我又可以认为基督愿意为我们去死，这表达了神的爱，这感动了我们，使我们自愿的与神和好了，这样我们得救了。我还可以认为基督以死来顺服神，为我们做了好榜样，我们依靠这个榜样的力量而顺服神，从而得救。我甚至可以认为上帝让基督来是为拯救人们，但出乎意料的是人们却把基督杀死了，于是基督没办法，只能将错就错，干脆去赎罪算了。。。显然，这些说法严重改变了福音的本质。请问，若对基督的死的解释根本无所谓的话，为什么这些解释却足以使我成为异端呢？
 
 所以说，对救恩的解释是致命的。而认为“救恩论不重要”这一观点本身正是一种救恩论。而这种救恩论的错谬之处我们已经从数个角度阐明了。
 
@@ -195,7 +193,7 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 也可以说，刘易斯的核心信仰是进化论式的。人类既然是进化而来的，人类的前途也自然是以进化来解决的。其实他所关注的并不是基督的救恩，而是基督的道成肉身。基督的神人二性对人类而言是一个“新的物种”，道成肉身为人类注入了新的基因库，使人可以借此而进化为更高层次的物种——与神更接近的物种。所以，对刘易斯而言，罪之类的名词其实是很烂的表达，而基督的死而复活也是在进化的意义上得以诠释的，天国则是进化的最终境界。
 
-> What, then, is the difference which He has made to the whole human mass? It is just this; that the business of becoming a son of God, ***of being turned from a created thing into a begotten thing***, of passing over from the temporary biological life into timeless “spiritual” life, has been done for us. **Humanity is already “saved” in principle**. We individuals have to appropriate that salvation.* But the really tough work-**the bit** we could not have done for ourselves-has been done for us*. We have not got to try to climb up into spiritual life by our own efforts; it has already come down into the **human race**. If we will only lay ourselves open to the one Man in whom it was fully present, and who, in spite of being God, is also a real man, He will do it in us and for us. Remember what I said about “**good infection**.” *One of our own race has this new life: if we get close to Him we shall catch it from Him*.   
+> What, then, is the difference which He has made to the whole human mass? It is just this; that the business of becoming a son of God, *of being turned from a created thing into a begotten thing*, of passing over from the temporary biological life into timeless “spiritual” life, has been done for us. *Humanity is already “saved” in principle*. We individuals have to appropriate that salvation. But the really tough work -- *the bit* we could not have done for ourselves -- has been done for us. We have not got to try to climb up into spiritual life by our own efforts; it has already come down into the *human race*. If we will only lay ourselves open to the one Man in whom it was fully present, and who, in spite of being God, is also a real man, He will do it in us and for us. Remember what I said about “*good infection*.” *One of our own race has this new life: if we get close to Him we shall catch it from Him*.   
 > Of course, you can express this in all sorts of different ways. You can say that Christ died for our sins. You may say that the Father has forgiven us because Christ has done for us what we ought to have done. You may say that we are washed in the blood of the Lamb. You may say that Christ has defeated death. They are all true. If any of them do not appeal to you, leave it alone and get on with the formula that does. And, whatever you do, do not start quarrelling with other people because they use a different formula from yours.   
 > [*Mere Christianity*]
 
@@ -209,23 +207,23 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 犯完了一连串的致命错误，毫不奇怪，刘易斯最终走到了普救论。
 
-> There are people who do not accept the full Christian doctrine about Christ but who are so strongly attracted by Him that they are His in a much deeper sense than they themselves understand. There are people in other religions who are being led by God’s secret influence to concentrate on those parts of their religion which are in agreement with Christianity, **and who thus belong to Christ without knowing it**. For example, a Buddhist of good will may be led to concentrate more and more on the Buddhist teaching about mercy and to leave in the background (though he might still say he believed) the Buddhist teaching on certain other points. Many of the good Pagans long before Christ’s birth may have been in this position.   
+> There are people who do not accept the full Christian doctrine about Christ but who are so strongly attracted by Him that they are His in a much deeper sense than they themselves understand. There are people in other religions who are being led by God’s secret influence to concentrate on those parts of their religion which are in agreement with Christianity, and who thus belong to Christ without knowing it. For example, a Buddhist of good will may be led to concentrate more and more on the Buddhist teaching about mercy and to leave in the background (though he might still say he believed) the Buddhist teaching on certain other points. Many of the good Pagans long before Christ’s birth may have been in this position.
 > [*Mere Christianity*]
 > 
-> I think that every prayer which is sincerely made even to a false god or to a very imperfectly conceived true God, is accepted by the true God and that Christ saves many who do not think they know Him.   
+> I think that every prayer which is sincerely made even to a false god or to a very imperfectly conceived true God, is accepted by the true God and that Christ saves many who do not think they know Him. 
 > [ *Letters of C. S. Lewis*, 428.]
 > 
-> I had some ado to prevent Joy (and myself) from lapsing into paganism in Attica! At daphni it was hard not to pray to apollo the healer. But somehow one didn’t feel it would have been very wrong–would have only been addressing christ subspecie apollonius.   
+> I had some ado to prevent Joy (and myself) from lapsing into paganism in Attica! At daphni it was hard not to pray to apollo the healer. But somehow one didn’t feel it would have been very wrong–would have only been addressing christ subspecie apollonius.
 > [C.S. Lewis to Chad Walsh, May 23, 1960, cited from George Sayer, Jack: A Life of C.S. Lewis, 1994, p. 378].
 
 好吧，在刘易斯看来，“好宗教”、“好哲学”都是可以得救的，而且事奉巴力、亚斯他录、亚舍拉、大衮与事奉神并无本质区别。难怪他和他老婆居然忍不住想拜阿波罗了。这些其实与天主教的信仰都是相通的。
 
 但是，更准确的事实却是，刘易斯正是因为相信普救论而接受基督教的。
 
-> To me, who first approached Christianity from a delighted interest in, and reverence for, the best pagan imagination, who loved Balder before Christ and Plato before St. Augustine, the anthropological argument against Christianity has never been formidable. On the contrary, **I could not believe Christianity if I were forced to say that there were a thousand religions in the world of which 999 were pure nonsense and the thousandth (fortunately) true**. My conversion, very largely, depended on recognizing Christianity as **the completion, the actualization, the entelechy, **of something that had never been wholly absent from the mind of man.   
+> To me, who first approached Christianity from a delighted interest in, and reverence for, the best pagan imagination, who loved Balder before Christ and Plato before St. Augustine, the anthropological argument against Christianity has never been formidable. On the contrary, *I could not believe Christianity if I were forced to say that there were a thousand religions in the world of which 999 were pure nonsense and the thousandth (fortunately) true*. My conversion, very largely, depended on recognizing Christianity as the completion, the actualization, the entelechy, of something that had never been wholly absent from the mind of man.
 > [*God In The Dock*, C. S. Lewis, p. 132. ]
 > 
-> I couldn’t believe that nine-hundred and ninety-nine religions were completely false and the remaining one true. In reality, **Christianity is primarily the fulfillment of the Jewish religion, but also the fulfillment of what was vaguely hinted in all the religions at their best**. What was vaguely seen in them all comes into focus in Christianity.   
+> I couldn’t believe that nine-hundred and ninety-nine religions were completely false and the remaining one true. In reality, Christianity is primarily the fulfillment of the Jewish religion, but also the fulfillment of what was vaguely hinted in all the religions at their best. What was vaguely seen in them all comes into focus in Christianity. 
 > [*God In The Dock*, C. S. Lewis, p. 54. ]
 
 刘易斯认为，其他“好宗教”、“好哲学”与犹太教（本质上）一样，他们都在基督教里获得了成全。正因为如此，所以刘易斯才会相信基督教。也就是说，若基督教坚持说其他宗教不能得救，那对不起，刘爷才不会信你们基督教呢！
@@ -240,4 +238,4 @@ Anglo-Catholic的背景为C. S. Lewis提供了绝佳的生存空间。向神父�
 
 但那又有什么关系呢？刘易斯才不在乎圣不圣经呢。刘易斯坚决不同意以圣经为依据，因为这太愚蠢了。没有了圣经，就没有了争论，没有了教义，就有了包容，一切都好办了。
 
-与其他新派不同的是，刘易斯虽然不尊重圣经，却很尊重Anglo-Catholic的传统，至少是努力使自己表面看起来不太出格。这与其心理学式的思维有关，他既然陶冶于传统之中，与传统相合的就对他的心理最有说服力，结果最以“理性”自居的人反成为了最迷信的人。这使他全面向天主教靠拢，同时也为人们铺就了一条通往罗马的大道。
+与其他新派不同的是，刘易斯虽然不尊重圣经，却很尊重Anglo-Catholic的传统，至少是努力使自己表面看起来不太出格。这与其心理学式的思维有关，他既然陶冶于传统之中，与传统相合的就对他的心理最有说服力。这使他全面向天主教靠拢，同时也为人们铺就了一条通往罗马的大道。

@@ -86,7 +86,7 @@ nav ul li, .nav ul li{
 }
 
 article{
-max-width: 37em;
+max-width: 35em;
 }
 
 article h1{
@@ -188,7 +188,6 @@ content: ")";
 .date{
 font-family: Lucida Console, Monaco, Courier New, mono, monospace;
 }
-
 
 @media only screen and (min-width: 240px) {
 
