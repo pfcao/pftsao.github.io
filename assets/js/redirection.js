@@ -132,5 +132,5 @@ var p = document.location.pathname.toLowerCase();
 p=p.replace(/^.?20/,"").split(/\.html/)[0];
 p="f"+p.replace(/[-_\/]/g,"").replace(/blogpost/,"").replace(/morethan/,"").substring(0,6);
 if( p in dict ){
-window.location = "/post/20"+p.substring(1,5)+dict[p];
+window.location = "http://samuel.tingdao.org/post/20"+p.substring(1,5)+dict[p];
 }
