@@ -6,7 +6,7 @@ permalink: /post/:year:month:day/
 exclude: ["README.md", "Rakefile"]
 auto: true
 pygments: false
-future: false
+future: true
 
 title : 塞牧
 tagline: "@听稻"
